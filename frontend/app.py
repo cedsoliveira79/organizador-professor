@@ -7,4 +7,11 @@ st.set_page_config(
 )
 
 st.title("📚 Organizador do Professor")
-st.write("Bem-vindo ao sistema.")
+
+st.markdown("""
+### Bem-vindo!
+
+Utilize o menu lateral para navegar pelo sistema.
+
+🚧 Sistema em desenvolvimento – Sprint 1.
+""")
